@@ -1,0 +1,8 @@
+C:\Users\Jinji2022-07\source\repos\Kadai1-1\Kadai1-1\bin\Debug\Kadai1-1.exe.config
+C:\Users\Jinji2022-07\source\repos\Kadai1-1\Kadai1-1\bin\Debug\Kadai1-1.exe
+C:\Users\Jinji2022-07\source\repos\Kadai1-1\Kadai1-1\bin\Debug\Kadai1-1.pdb
+C:\Users\Jinji2022-07\source\repos\Kadai1-1\Kadai1-1\obj\Debug\Kadai1-1.csproj.AssemblyReference.cache
+C:\Users\Jinji2022-07\source\repos\Kadai1-1\Kadai1-1\obj\Debug\Kadai1-1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jinji2022-07\source\repos\Kadai1-1\Kadai1-1\obj\Debug\Kadai1-1.csproj.CoreCompileInputs.cache
+C:\Users\Jinji2022-07\source\repos\Kadai1-1\Kadai1-1\obj\Debug\Kadai1-1.exe
+C:\Users\Jinji2022-07\source\repos\Kadai1-1\Kadai1-1\obj\Debug\Kadai1-1.pdb
