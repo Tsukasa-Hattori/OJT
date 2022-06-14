@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kadai5-1", "Kadai5-1\Kadai5-1.csproj", "{7428324F-4839-4801-98CC-9A34329770B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7428324F-4839-4801-98CC-9A34329770B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7428324F-4839-4801-98CC-9A34329770B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7428324F-4839-4801-98CC-9A34329770B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7428324F-4839-4801-98CC-9A34329770B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B679AA9F-C566-4C85-816F-1FA09FD3150E}
+	EndGlobalSection
+EndGlobal

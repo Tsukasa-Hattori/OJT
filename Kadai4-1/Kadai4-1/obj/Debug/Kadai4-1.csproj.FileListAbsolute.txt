@@ -1,0 +1,16 @@
+C:\Users\Jinji2022-07\source\repos\Kadai4-1\Kadai4-1\bin\Debug\Kadai4-1.exe.config
+C:\Users\Jinji2022-07\source\repos\Kadai4-1\Kadai4-1\bin\Debug\Kadai4-1.exe
+C:\Users\Jinji2022-07\source\repos\Kadai4-1\Kadai4-1\bin\Debug\Kadai4-1.pdb
+C:\Users\Jinji2022-07\source\repos\Kadai4-1\Kadai4-1\obj\Debug\Kadai4-1.csproj.AssemblyReference.cache
+C:\Users\Jinji2022-07\source\repos\Kadai4-1\Kadai4-1\obj\Debug\Kadai4-1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jinji2022-07\source\repos\Kadai4-1\Kadai4-1\obj\Debug\Kadai4-1.csproj.CoreCompileInputs.cache
+C:\Users\Jinji2022-07\source\repos\Kadai4-1\Kadai4-1\obj\Debug\Kadai4-1.exe
+C:\Users\Jinji2022-07\source\repos\Kadai4-1\Kadai4-1\obj\Debug\Kadai4-1.pdb
+C:\Users\Jinji2022-07\source\repos\Tsukasa-Hattori\Kadai4-1\Kadai4-1\bin\Debug\Kadai4-1.exe.config
+C:\Users\Jinji2022-07\source\repos\Tsukasa-Hattori\Kadai4-1\Kadai4-1\bin\Debug\Kadai4-1.exe
+C:\Users\Jinji2022-07\source\repos\Tsukasa-Hattori\Kadai4-1\Kadai4-1\bin\Debug\Kadai4-1.pdb
+C:\Users\Jinji2022-07\source\repos\Tsukasa-Hattori\Kadai4-1\Kadai4-1\obj\Debug\Kadai4-1.csproj.AssemblyReference.cache
+C:\Users\Jinji2022-07\source\repos\Tsukasa-Hattori\Kadai4-1\Kadai4-1\obj\Debug\Kadai4-1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jinji2022-07\source\repos\Tsukasa-Hattori\Kadai4-1\Kadai4-1\obj\Debug\Kadai4-1.csproj.CoreCompileInputs.cache
+C:\Users\Jinji2022-07\source\repos\Tsukasa-Hattori\Kadai4-1\Kadai4-1\obj\Debug\Kadai4-1.exe
+C:\Users\Jinji2022-07\source\repos\Tsukasa-Hattori\Kadai4-1\Kadai4-1\obj\Debug\Kadai4-1.pdb

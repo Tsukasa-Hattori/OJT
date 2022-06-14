@@ -20,23 +20,23 @@ namespace Kadai3_2
                 Console.WriteLine("優");
             }
 
-            if (a >= 70 && a < 80)
+            else if (a >= 70 && a < 80)
             {
                 Console.WriteLine("優");
             }
 
-                if (a >= 60 && a < 70)
+            else  if (a >= 60 && a < 70)
             {
                 Console.WriteLine("可");
             }
 
-            if (a >= 0 && a < 60)
+            else if (a >= 0 && a < 60)
             {
                 Console.WriteLine("不可");
             }
 
-           if (a > 100 || a < 0)
-            {
+            else
+            {   
                 Console.WriteLine(" 範囲外");
             }
 
