@@ -71,17 +71,12 @@ namespace Kadai5_2
             for (int cx = 0; cx < pt.GetLength(0); cx++)
 
             {
-                double average = 0;
-
-                for ( int cy =0; cy < pt.GetLength(1); cy++)
-                {
-                    int sum = 0;
-
-                  sum = pt[cx, 0] + pt[cx, 1] + pt[cx, 2];  //合計計算
-
-                    average = (double)sum / pt.GetLength(1);             //平均計算
+                
                    
-                }
+                double sum = pt[cx, 0] + pt[cx, 1] + pt[cx, 2];  //合計計算
+
+                double average = sum / pt.GetLength(1);             //平均計算
+                   
                 
                 Console.WriteLine("{0}人目の平均点は{1}点です", cx + 1, average);
             }
